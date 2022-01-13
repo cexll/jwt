@@ -4,7 +4,6 @@ namespace EasySwoole\Jwt;
 
 use DomainException;
 use EasySwoole\Spl\SplBean;
-use EasySwoole\Utility\Random;
 use UnexpectedValueException;
 
 class JwtObject extends SplBean

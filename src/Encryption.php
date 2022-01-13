@@ -7,8 +7,6 @@
  */
 namespace EasySwoole\Jwt;
 
-use EasySwoole\Component\Singleton;
-
 class Encryption
 {
     use Singleton;
