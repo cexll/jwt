@@ -7,14 +7,13 @@
 可以通过composer安装
 
 ~~~ 
-composer require easyswoole/jwt 
+composer require yogcloud/jwt 
 ~~~
 
 ## 依赖
 
 ~~~
 * PHP version >= PHP 7.1
-* easyswoole 组件包括 spl 与 utility
 ~~~
 
 ## 生成token
