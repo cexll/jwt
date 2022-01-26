@@ -8,8 +8,6 @@
 
 namespace EasySwoole\Jwt;
 
-use EasySwoole\Spl\SplBean;
-
 class Signature extends SplBean
 {
 
